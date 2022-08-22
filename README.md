@@ -23,7 +23,7 @@ This project usage is for anyone that needs a back-end for their social network 
 
 ## Instructions
 
-- If you would like to view a video on how to install and use, go to my [Youtube Channel](https://youtu.be/SdRvP-2GKzY)
+- If you would like to view a video on how to install and use, go to my [Youtube Channel]
 
 - Step 1: Clone this repository
 
