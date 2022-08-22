@@ -5,8 +5,6 @@
 This is a Social Network API built using Mongoose and is ready to be hooked up to a front end
 
 ![GitHub top language](https://img.shields.io/github/languages/top/fowlerbo/social-network-api)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fowlerbo/social-network-api)
-![GitHub issues](https://img.shields.io/github/issues/fowlerbo/social-network-api)
 
 ## Table of Contents
 
