@@ -1,9 +1,10 @@
 const router = require("express").Router();
+const apiRoutes = require("./api");
 
-const userRoutes = require("./user-routes");
-const thoughtRoutes = require("./thoughts-routes");
+router.use("/api", apiRoutes);
 
-router.use("/api/users", userRoutes);
-router.use("/api/thoughts", thoughtRoutes);
+router.use((req, res) => {
+  return res.status(404).send("Route not found.");
+});
 
 module.exports = router;
