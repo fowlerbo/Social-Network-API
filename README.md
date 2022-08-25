@@ -43,6 +43,6 @@ This project usage is for anyone that needs a back-end for their social network 
 
 ## Questions
 
-Created by: [fowlerbo](https://github.com/ajcuddeback)
+Created by: [fowlerbo](https://github.com/fowlerbo)
 
-If you have any further questions please feel free to contact me at [fowler1221bryant@gmail.com](ajcuddeback@gmail.com)
+If you have any further questions please feel free to contact me at [fowler1221bryant@gmail.com](fowler1221bryant@gmail.com)
